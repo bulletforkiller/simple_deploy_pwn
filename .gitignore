@@ -1,0 +1,17 @@
+# vscode
+.vscode/
+
+# python
+*.pyc
+__pycache__/
+venv/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# xineted
+pwn.xinetd
+
+# pwn binary
+bin/*
