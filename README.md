@@ -14,9 +14,9 @@
    - ```pip3 install -r requirements.txt```
 
 ## Usage
-1. Just put up your pwn program(s) in bin folder.
+1. Just put up your pwn program(s) in ./bin folder.
 2. If you need custom version libc control, both ld.so and libc.so.6 is needed. Change the libc(ld) name in config.py if you need.
-   - Name is to distinguish the arch(x86 or x64)
+   - Name is to distinguish the arch(x86 or x64), then put them into ./libc folder.
 3. Then run the deploy.py and have fun.
    - ```python3 deploy.py```
 
