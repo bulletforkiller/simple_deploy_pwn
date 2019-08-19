@@ -19,6 +19,7 @@
    - Name is to distinguish the arch(x86 or x64), then put them into ./libc folder.
 3. Then run the deploy.py and have fun.
    - ```python3 deploy.py```
+4. All infomation about pwn is stored in secret.json.
 
 ## Reference
 https://github.com/giantbranch/pwn_deploy_chroot
