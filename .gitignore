@@ -13,3 +13,9 @@ docker-compose.yml
 # xineted
 pwn.xinetd
 
+# Generate information
+secret.json
+
+# working content
+_tmp*
+secret.json
