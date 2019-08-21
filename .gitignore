@@ -17,5 +17,9 @@ pwn.xinetd
 secret.json
 
 # working content
+bin/*
+libc/*
 _tmp*
 secret.json
+
+!.gitkeep
